@@ -1,122 +1,188 @@
 # Hi there 👋 I'm Sumit Tiwari
 
+### Full Stack Engineer (React + Spring Boot) | Frontend Specialist | GenAI Enthusiast
+
+Building scalable web applications, learning distributed systems, and preparing for high-impact engineering roles.
+
 ---
 
 ## 🚀 About Me
 
-* 💻 Full Stack Developer focused on building production-grade applications
-* ⚛️ Frontend: React, JavaScript, TypeScript, Redux
-* ⚙️ Backend: Node.js, Express.js, Java, Spring Boot
-* 🗄️ Database: MongoDB, MySQL, SQL
-* 🤖 Exploring LLM Apps, RAG, Embeddings, and GenAI integrations
-* 🎯 Currently preparing for FAANG-level Backend & Full Stack Engineer roles
-* 🌱 Continuously learning System Design, scalable architecture, and clean engineering practices
+💻 Software Engineer with 2+ years of industry experience building production-grade applications.
+
+⚛️ Strong frontend expertise in:
+
+* React
+* Next.js
+* Angular
+* TypeScript
+* JavaScript
+* Redux / NgRx
+* RxJS
+
+☕ Currently transitioning into Full Stack Development with:
+
+* Spring Boot
+* Java
+* REST APIs
+* MySQL
+* MongoDB
+
+🤖 Exploring:
+
+* LLM Applications
+* RAG Architectures
+* LangChain
+* Prompt Engineering
+* AI-assisted Development Workflows
+
+🎯 Current Goal:
+
+* Crack top Full Stack Engineering roles
+* Master Backend Development with Spring Boot
+* Build scalable real-world products
+* Strengthen System Design & DSA skills
 
 ---
 
-## 🌐 Connect With Me
 
----
-
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
 ### Frontend
 
-
-
-
-
-
-\
-
----
+```txt
+React
+Next.js
+Angular
+TypeScript
+JavaScript
+Redux
+NgRx
+RxJS
+HTML5
+CSS3
+SCSS
+```
 
 ### Backend
 
-
-
-\
-
----
+```txt
+Java
+Spring Boot
+Node.js
+Express.js
+REST APIs
+JWT Authentication
+```
 
 ### Database
 
-\
+```txt
+MySQL
+MongoDB
+SQL
+```
+
+### Tools & DevOps
+
+```txt
+Git
+GitHub
+GitLab
+Postman
+Jenkins
+CI/CD
+Vercel
+Netlify
+```
+
+### AI & GenAI
+
+```txt
+LangChain
+Prompt Engineering
+RAG
+Embeddings
+ChatGPT
+Gemini
+GitHub Copilot
+Cursor
+```
 
 ---
 
-### Tools & Cloud
+## 📈 Current Learning Journey
 
+```text
+✔ Advanced React Patterns
+✔ TypeScript
+✔ REST API Design
 
+🔄 Spring Boot
+🔄 Backend Development
+🔄 System Design
+🔄 DSA & Problem Solving
 
-\
+🎯 Target:
+Full Stack Engineer (React + Spring Boot)
+```
 
 ---
 
-### AI / GenAI
+## 🌟 Featured Projects
 
+### 🔹 Developer Portfolio
 
+Personal portfolio showcasing projects, experience, and technical journey.
 
-\
+🌐 https://st-dev-portfolio-drab.vercel.app/
+
+### 🔹 Enterprise Applications
+
+* Dashboard Platforms
+* Data Visualization Systems
+* Internal Business Applications
+* API-Driven Frontend Systems
+
+### 🔹 AI & GenAI Projects
+
+* RAG-based Applications
+* LLM Integrations
+* Vector Search Experiments
+* AI-Powered Developer Tools
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=st0107&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 2026 Goals
+
+* Build and deploy 3+ Full Stack React + Spring Boot projects
+* Strengthen System Design fundamentals
+* Solve 300+ DSA problems
+* Contribute to Open Source
+* Build production-ready AI applications
+* Secure a Full Stack Engineering role
 
 ---
 
-# 📌 Featured Projects
-
-## 🔹 ST Dev Portfolio
-
-My personal developer portfolio built with modern UI, clean animations, and developer-focused branding.
-
-🔗 https://st-dev-portfolio-drab.vercel.app/
-
----
-
-## 🔹 Full Stack Web Applications
-
-* Authentication Systems
-* REST APIs
-* Admin Dashboards
-* CRUD Platforms
-* Database-driven applications
-
----
-
-## 🔹 AI / GenAI Projects
-
-* LLM Integrations
-* Retrieval-Augmented Generation (RAG)
-* Embeddings + Vector Search
-* AI-powered developer tools
-
----
-
-## 🎯 Current Focus
-
-```text
-Backend Engineering
-System Design
-DSA & Problem Solving
-Scalable APIs
-GenAI Application Development
-Interview Preparation
-```
-
----
-
-## 👀 Profile Views
-
----
-
-## 💬 Quote I Work By
+## 💬 Philosophy
 
 > Build clean. Build scalable. Keep learning.
+>
+> Consistency beats intensity.
+
+</div>
+
+---
+Always open to discussing:
+
+* Full Stack Development
+* React Ecosystem
+* Spring Boot
+* System Design
+* GenAI Applications

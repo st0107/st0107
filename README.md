@@ -156,9 +156,7 @@ Personal portfolio showcasing projects, experience, and technical journey.
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=st0107&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=st0107&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card_width=700&card_height=200" alt="GitHub Streak" /></a>
 </div>
 ---
 

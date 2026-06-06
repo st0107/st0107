@@ -161,6 +161,12 @@ Personal portfolio showcasing projects, experience, and technical journey.
 
 ---
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/st0107/st0107/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 🏆 2026 Goals
 
 * Build and deploy 3+ Full Stack React + Spring Boot projects

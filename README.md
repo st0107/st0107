@@ -133,9 +133,24 @@ Full Stack Engineer (React + Spring Boot)
 
 ### 🔹 Developer Portfolio
 
-Personal portfolio showcasing projects, experience, and technical journey.
+<a href="https://st-dev-portfolio-drab.vercel.app">
+  <img
+    src="https://raw.githubusercontent.com/st0107/st0107/main/assets/portfolio-preview.jpg"
+    alt="Developer Portfolio"
+    width="100%"
+  />
+</a>
 
-🌐 https://st-dev-portfolio-drab.vercel.app/
+Personal portfolio showcasing:
+
+- Projects
+- Experience
+- Skills
+- Technical Journey
+
+🌐 Live Demo:
+https://st-dev-portfolio-drab.vercel.app/
+
 
 ### 🔹 Enterprise Applications
 

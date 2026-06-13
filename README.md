@@ -182,7 +182,9 @@ https://st-dev-portfolio-drab.vercel.app/
 
 ## 🐍 Contribution Snake
 
-[![Generate Snake](https://github.com/st0107/st0107/actions/workflows/snake.yml/badge.svg)](https://github.com/st0107/st0107/actions/workflows/snake.yml)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/st0107/st0107/output/github-snake.svg" alt="GitHub Snake" />
+</p>
 
 ---
 

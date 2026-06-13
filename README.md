@@ -171,7 +171,7 @@ https://st-dev-portfolio-drab.vercel.app/
 ## 📊 GitHub Stats
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-alpha-cyan.vercel.app?user=st0107&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card_width=700&card_height=200" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-alpha-cyan.vercel.app/?user=st0107&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </div>
 
 ---

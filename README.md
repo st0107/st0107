@@ -166,6 +166,7 @@ https://st-dev-portfolio-drab.vercel.app/
 * Vector Search Experiments
 * AI-Powered Developer Tools
 
+<!--
 ---
 
 ## 📊 GitHub Stats
@@ -176,8 +177,9 @@ https://st-dev-portfolio-drab.vercel.app/
     src="https://github-readme-streak-stats-alpha-cyan.vercel.app/?user=st0107&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D"
     alt="GitHub Streak"
   />
-</a></div>
-
+</a>
+</div>
+-->
 ---
 
 ## 🐍 Contribution Snake

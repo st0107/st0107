@@ -133,7 +133,7 @@ Full Stack Engineer (React + Spring Boot)
 
 ### 🔹 Developer Portfolio
 
-<a href="https://st-dev-portfolio-drab.vercel.app">
+<a href="https://www.stdev.online">
   <img
     src="https://raw.githubusercontent.com/st0107/st0107/main/assets/portfolio-preview.jpg"
     alt="Developer Portfolio"
@@ -149,7 +149,7 @@ Personal portfolio showcasing:
 - Technical Journey
 
 🌐 Live Demo:
-https://st-dev-portfolio-drab.vercel.app/
+https://www.stdev.online/
 
 
 ### 🔹 Enterprise Applications

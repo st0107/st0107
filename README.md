@@ -1,219 +1,169 @@
-# Hi there 👋 I'm Sumit Tiwari
+# Hi, I'm Sumit Tiwari 👋
 
-### Full Stack Engineer (React + Spring Boot) | Frontend Specialist | GenAI Enthusiast
+### Frontend Engineer | React • Angular • TypeScript
+### Building Full-Stack Applications with Java & Spring Boot
 
-Building scalable web applications, learning distributed systems, and preparing for high-impact engineering roles.
+Software Engineer with **2+ years of industry experience** building and maintaining production web applications across enterprise and startup environments.
 
----
+My strongest experience is in **frontend engineering**, particularly React, Angular, TypeScript, state management, REST API integration, reusable component architecture, and frontend performance.
 
-## 🚀 About Me
-
-💻 Software Engineer with 2+ years of industry experience building production-grade applications.
-
-⚛️ Strong frontend expertise in:
-
-* React
-* Next.js
-* Angular
-* TypeScript
-* JavaScript
-* Redux / NgRx
-* RxJS
-
-☕ Currently transitioning into Full Stack Development with:
-
-* Spring Boot
-* Java
-* REST APIs
-* MySQL
-* MongoDB
-
-🤖 Exploring:
-
-* LLM Applications
-* RAG Architectures
-* LangChain
-* Prompt Engineering
-* AI-assisted Development Workflows
-
-🎯 Current Goal:
-
-* Crack top Full Stack Engineering roles
-* Master Backend Development with Spring Boot
-* Build scalable real-world products
-* Strengthen System Design & DSA skills
+I'm currently expanding into **backend and full-stack engineering with Java and Spring Boot**, while continuing to strengthen DSA, system design, databases, and production engineering fundamentals.
 
 ---
 
+## 👨‍💻 Engineering Profile
 
-## 🛠️ Tech Stack
+### Frontend Engineering
 
-### Frontend
+- React
+- Next.js
+- Angular
+- TypeScript
+- JavaScript ES6+
+- RxJS
+- NgRx
+- Redux
+- HTML5
+- CSS3 / SCSS
+- Responsive Web Development
+- Component Architecture
+- State Management
+- REST API Integration
+- Frontend Performance Optimization
 
-```txt
+### Backend & Full-Stack
+
+Currently building deeper hands-on experience with:
+
+- Java
+- Spring Boot
+- REST API Design
+- JWT Authentication
+- SQL
+- PostgreSQL / MySQL
+- MongoDB
+- Redis
+- Docker
+- Backend Testing
+
+### GenAI
+
+Hands-on experience with:
+
+- LLM API Integration
+- Gemini
+- LangChain
+- Prompt Engineering
+- AI-assisted Application Development
+
+---
+
+# 🚀 Selected Projects
+
+## 🎮 TRAP PATH
+
+**React • TypeScript • Phaser • Zustand • Supabase**
+
+Browser-based platform game focused on frontend architecture, interactive systems, and state management.
+
+### Engineering Highlights
+
+- Built the application using **React and TypeScript**
+- Separated React UI/state concerns from the Phaser game simulation
+- Implemented persistent application state using Zustand
+- Built responsive game controls and UI
+- Developed a visual level editor with validation and import/export support
+- Added Progressive Web App capabilities
+- Added automated testing and TypeScript/linting checks
+- Integrated optional Supabase-backed functionality
+
+**Repository:**  
+https://github.com/st0107/Trap-Path
+
+---
+
+## 🤖 Deadline Guardian AI
+
+### Vibe Coding Hackathon Project
+
+**React • TypeScript • Express.js • Gemini**
+
+AI-powered task and deadline management application built during a
+**Vibe Coding Hackathon**, where AI-assisted development was part of the development format.
+
+### Engineering Highlights
+
+- Built AI-assisted task and productivity workflows
+- Integrated Gemini-powered functionality
+- Implemented frontend-backend API communication
+- Added authenticated application flows
+- Worked with real-time application functionality
+- Used AI-assisted development for rapid implementation while handling integration,
+  debugging, validation, and deployment
+
+**Repository:**  
+https://github.com/st0107/Deadline-Guardian-AI
+
+---
+
+## ☕ Spreadsheet Backend
+
+**Java • Spring Boot • PostgreSQL • Redis • JWT • Flyway • Docker • Testcontainers**
+
+Backend-focused project being used to strengthen production-oriented Java and Spring Boot engineering.
+
+### Engineering Areas
+
+- REST API design
+- Authentication and authorization
+- PostgreSQL persistence
+- Database migrations with Flyway
+- Redis integration
+- API documentation
+- Dockerized development
+- Integration testing with Testcontainers
+
+**Repository:**  
+https://github.com/st0107/sheet-clone-back-end
+
+---
+
+## 💼 Professional Experience
+
+I have worked on production applications using **Angular, React, TypeScript, RxJS, NgRx, REST APIs, and CI/CD workflows**.
+
+My professional work has included:
+
+- Enterprise Angular and React applications
+- Reusable frontend component architecture
+- REST API integration
+- State management
+- Performance optimization
+- Error/loading/edge-case handling
+- Responsive UI development
+- CI/CD and deployment workflows
+- Working directly with product and business requirements
+
+---
+
+# 🛠️ Technology Stack
+
+### Strongest / Production Experience
+
+```text
 React
-Next.js
 Angular
+Next.js
 TypeScript
 JavaScript
-Redux
-NgRx
 RxJS
+NgRx
 HTML5
 CSS3
 SCSS
-```
-
-### Backend
-
-```txt
-Java
-Spring Boot
-Node.js
-Express.js
 REST APIs
-JWT Authentication
-```
-
-### Database
-
-```txt
-MySQL
-MongoDB
-SQL
-```
-
-### Tools & DevOps
-
-```txt
 Git
 GitHub
 GitLab
 Postman
-Jenkins
 CI/CD
-Vercel
-Netlify
-```
-
-### AI & GenAI
-
-```txt
-LangChain
-Prompt Engineering
-RAG
-Embeddings
-ChatGPT
-Gemini
-GitHub Copilot
-Cursor
-```
-
----
-
-## 📈 Current Learning Journey
-
-```text
-✔ Advanced React Patterns
-✔ TypeScript
-✔ REST API Design
-
-🔄 Spring Boot
-🔄 Backend Development
-🔄 System Design
-🔄 DSA & Problem Solving
-
-🎯 Target:
-Full Stack Engineer (React + Spring Boot)
-```
-
----
-
-## 🌟 Featured Projects
-
-### 🔹 Developer Portfolio
-
-<a href="https://www.stdev.online">
-  <img
-    src="https://raw.githubusercontent.com/st0107/st0107/main/assets/portfolio-preview.jpg"
-    alt="Developer Portfolio"
-    width="100%"
-  />
-</a>
-
-Personal portfolio showcasing:
-
-- Projects
-- Experience
-- Skills
-- Technical Journey
-
-🌐 Live Demo:
-https://www.stdev.online/
-
-
-### 🔹 Enterprise Applications
-
-* Dashboard Platforms
-* Data Visualization Systems
-* Internal Business Applications
-* API-Driven Frontend Systems
-
-### 🔹 AI & GenAI Projects
-
-* RAG-based Applications
-* LLM Integrations
-* Vector Search Experiments
-* AI-Powered Developer Tools
-
-<!--
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-<a href="https://github.com/st0107/github-readme-streak-stats">
-  <img
-    src="https://github-readme-streak-stats-alpha-cyan.vercel.app/?user=st0107&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D"
-    alt="GitHub Streak"
-  />
-</a>
-</div>
--->
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/st0107/st0107/output/github-snake.svg" alt="GitHub Snake" />
-</p>
-
----
-
-## 🏆 2026 Goals
-
-* Build and deploy 3+ Full Stack React + Spring Boot projects
-* Strengthen System Design fundamentals
-* Solve 300+ DSA problems
-* Contribute to Open Source
-* Build production-ready AI applications
-* Secure a Full Stack Engineering role
-
----
-
-## 💬 Philosophy
-
-> Build clean. Build scalable. Keep learning.
->
-> Consistency beats intensity.
-
-</div>
-
----
-Always open to discussing:
-
-* Full Stack Development
-* React Ecosystem
-* Spring Boot
-* System Design
-* GenAI Applications
